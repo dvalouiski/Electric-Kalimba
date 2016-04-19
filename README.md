@@ -4,4 +4,7 @@ An arduino based, hand made, alalogue instrument, designed with kalimba-like pla
 
 Made to bring both instruments into a modern context as one.
 
+Photos and Videos of project:
+https://drive.google.com/open?id=0ByROBAubk6G6cG10d3FkcHZlMzQ
+
 # By Dennis Valouiski  -  dvalouiski@gmail.com
